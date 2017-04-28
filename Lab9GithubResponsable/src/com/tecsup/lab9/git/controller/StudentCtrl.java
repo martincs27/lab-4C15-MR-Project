@@ -11,7 +11,6 @@ public class StudentCtrl {
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
-
 	}
 
 }
