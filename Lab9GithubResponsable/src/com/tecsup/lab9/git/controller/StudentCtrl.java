@@ -6,11 +6,16 @@ public class StudentCtrl {
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
+//<<<<<<< HEAD
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
 		System.out.println("HOLA REUS");
+//=======
+		System.out.println("gg brazucas");
+		
+//>>>>>>> branch 'sprint-2' of https://github.com/martincs27/lab-4C15-MR-Project.git
 	}
 
 }
